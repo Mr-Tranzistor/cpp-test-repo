@@ -1,3 +1,4 @@
+*.gitignore
 *.doc
 *.docx
 README.md
